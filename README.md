@@ -1,4 +1,4 @@
-# Integration Salesforce React.js 
+# React.js and Salesforce Integration using REST API 
 
 ## About
 
@@ -9,7 +9,7 @@ The following ideas are illustrated by this application:
 
   - authenticating with OAuth 2.0 (login, logout, retrieving session info)
   - using the REST API to run a SOQL query
-  - using the [Lightning Design System](https://www.lightningdesignsystem.com) (LDS) in a React application (
+  - using the [Lightning Design System](https://www.lightningdesignsystem.com) (LDS) in a React application 
 
 The arrangement of the source code for this app is as follows:
 
